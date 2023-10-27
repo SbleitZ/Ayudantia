@@ -1,0 +1,50 @@
+Id,Usuario,Contraseña,NombreCompleto,Email,EmailVerificado,Pais,Socio,Sexo,Edad
+1,jonathan22,clave123,Jonathan Martínez Gómez,jonathan22@gmail.com,1,Chile,1,Masculino,19
+2,mariagarcia,12345,Maria García López,mariagarcia@gmail.com,0,México,0,Femenino,16
+3,diego98,securepass123,Diego Sánchez Pérez,diego98@gmail.com,1,España,1,Masculino,73
+4,laurabrown,pass12345,Laura Brown,laurabrown@gmail.com,0,Canadá,1,Femenino,31
+5,pablitog,abcd123,Pablo González,pablitog@gmail.com,1,Argentina,0,Masculino,21
+6,andrea01,testpassword,Andrea Martínez Sánchez,andrea01@gmail.com,0,Chile,1,Femenino,64
+7,carlospaz,pass123,Carlos Paz,carlospaz@gmail.com,1,Chile,0,Masculino,87
+8,mariasuarez,examplepass,Maria Suarez,mariasuarez@gmail.com,0,Colombia,1,Femenino,54
+9,juancarlos,juanca567,Juan Carlos Soto,juancarlos@gmail.com,1,Chile,1,Masculino,32
+10,camilaperez,camila99,Camila Pérez,camilaperez@gmail.com,0,Perú,0,Femenino,23
+11,roberto1980,hellopass,Roberto Gómez,roberto1980@gmail.com,1,Chile,1,Masculino,65
+12,alejandrav,passworld,Alejandra Vargas,alejandrav@gmail.com,0,Argentina,0,Femenino,30
+13,sergioh,secureword,Sergio Hernández,sergioh@gmail.com,1,Chile,1,Masculino,32
+14,estefania17,worldpass123,Estefanía García,estefania17@gmail.com,0,Ecuador,0,Femenino,56
+15,luciano09,lucianoabc,Luciano Rodríguez,luciano09@gmail.com,1,Chile,1,Masculino,19
+16,rosa23,testpass123,Rosa Silva,rosa23@gmail.com,0,Colombia,0,Femenino,17
+17,victorm,passworld45,Víctor Martínez,victorm@gmail.com,1,Chile,1,Masculino,75
+18,ana_g,hello1234,Ana Gutiérrez,ana_g@gmail.com,0,Perú,0,Femenino,67
+19,manuelito,manu789,Manuelito Pérez,manuelito@gmail.com,1,Chile,1,Masculino,77
+20,lauragon,example567,Laura González,lauragon@gmail.com,0,Argentina,0,Femenino,54
+21,juanitac,worldpass,Juanita Contreras,juanitac@gmail.com,1,Chile,1,Femenino,56
+22,jorgito23,jorgepass123,Jorgito Martínez,jorgito23@gmail.com,0,España,0,Masculino,45
+23,andrescast,abc456,Andrés Castillo,andrescast@gmail.com,1,Chile,1,Masculino,76
+24,susanamc,pass321,Susana Mendoza,susanamc@gmail.com,0,Colombia,0,Femenino,67
+25,pablocastro,castro456,Pablo Castro,pablocastro@gmail.com,1,Chile,1,Masculino,44
+26,isabel14,hellopassworld,Isabel Gómez,isabel14@gmail.com,0,Argentina,0,Femenino,23
+27,mariaelena,elena98,Maria Elena Rodríguez,mariaelena@gmail.com,1,Chile,1,Femenino,22
+28,felipe20,pass567,Felipe Gutiérrez,felipe20@gmail.com,0,Perú,0,Masculino,26
+29,nico22,nicoabc,Nicolás Pérez,nico22@gmail.com,1,Chile,1,Masculino,34
+30,robertocastro,securepass123,Roberto Castro Gómez,robertocastro@gmail.com,1,Argentina,0,Masculino,28
+31,mariaperez,pass12345,Maria Pérez,maria.perez@gmail.com,1,Colombia,1,Femenino,32
+32,juan_123,testpass,Juan Sánchez,juan_123@gmail.com,0,Chile,0,Masculino,25
+33,lauragomez,abcd123,Laura Gómez,laura.gomez@gmail.com,1,México,1,Femenino,29
+34,carlos_01,secureword,Carlos Martínez,carlos_01@gmail.com,0,Chile,0,Masculino,31
+35,sofiavargas,examplepass,Sofía Vargas,sofiavargas@gmail.com,1,Perú,1,Femenino,27
+36,daniel_89,passworld45,Daniel Rodríguez,daniel_89@gmail.com,0,Chile,0,Masculino,26
+37,valentina_g,hello1234,Valentina Gutiérrez,valentina_g@gmail.com,1,Colombia,1,Femenino,30
+38,rodrigoc,castro456,Rodrigo Castillo,rodrigoc@gmail.com,0,Chile,1,Masculino,33
+39,anitagomez,hellopassworld,Ana Gómez,anitagomez@gmail.com,1,Argentina,0,Femenino,29
+40,camila_22,elena98,Camila Soto,camila_22@gmail.com,0,Chile,0,Femenino,17
+41,nicolas_abc,nicolaspass,Nicolás Pérez,nicolas_abc@gmail.com,1,Perú,1,Masculino,31
+42,andreagarcia,pass567,Andrea García,andreagarcia@gmail.com,0,Chile,1,Femenino,26
+43,pedro22,peterpass123,Pedro Gómez,pedro22@gmail.com,1,Colombia,0,Masculino,27
+44,isabella_d,hellopass123,Isabella Díaz,isabella_d@gmail.com,0,Chile,0,Femenino,30
+45,gabriel89,gabopass123,Gabriel Martínez,gabriel89@gmail.com,1,Argentina,1,Masculino,32
+46,lucia_01,lucia123,Lucía Rodríguez,lucia_01@gmail.com,0,Chile,1,Femenino,29
+47,manuel10,manuel1234,Manuel Pérez,manuel10@gmail.com,1,Perú,0,Masculino,33
+48,camiloabc,passcamilo,Camilo Gutiérrez,camiloabc@gmail.com,0,Chile,1,Masculino,28
+49,lauracruz,passlaura,Laura Cruz,lauracruz@gmail.com,0,Colombia,0,Femenino,25
