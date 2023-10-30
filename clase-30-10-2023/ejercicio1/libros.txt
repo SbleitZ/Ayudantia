@@ -8,4 +8,4 @@ Dune,Frank Herbert,Ciencia Ficción,1965
 The Catcher in the Rye,J.D. Salinger,Ficción,1951
 The Hobbit,J.R.R. Tolkien,Fantasía,1937
 La Sombra del Viento,Carlos Ruiz Zafón,Misterio,2001
-titulo,autor,genero,año
+Titulo1,Nombre1,Genero1,año
