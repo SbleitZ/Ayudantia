@@ -1,0 +1,11 @@
+El Jardín de las Mariposas,Isabella Summers,Misterio,2005
+Cenizas en el Viento,Lucas Redford,Aventura,2012
+El Secreto de la Luna,Amanda Wells,Fantasía,2008
+1984,George Orwell,Ciencia Ficción,1949
+To Kill a Mockingbird,Harper Lee,Drama,1960
+Pride and Prejudice,Jane Austen,Romance,1813
+Dune,Frank Herbert,Ciencia Ficción,1965
+The Catcher in the Rye,J.D. Salinger,Ficción,1951
+The Hobbit,J.R.R. Tolkien,Fantasía,1937
+La Sombra del Viento,Carlos Ruiz Zafón,Misterio,2001
+titulo,autor,genero,año
