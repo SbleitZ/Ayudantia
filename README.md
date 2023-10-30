@@ -5,4 +5,5 @@ Este formulario está diseñado para evaluar el interés y registrar la particip
 - Ejercicios usando la libreria Tkinter
 - Ejercicios sobre lectura/escritura de archivos con la libreria IO
 ## Link del formulario
+Recordar que deben participar minimo 5 alumnos para la realización de la ayudantia.
 - https://forms.office.com/r/Yhd1KeJDzG
