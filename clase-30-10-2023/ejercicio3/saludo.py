@@ -6,7 +6,7 @@ def saludo_personalizado():
 
 ventana = Tk()
 ventana.geometry("300x300")
-ventana.title("Generador de numeros aleatorios")
+ventana.title("Saludo personalizado")
 nombre = StringVar()
 nombre_entry = Entry(ventana, textvariable=nombre)
 nombre_entry.pack()
