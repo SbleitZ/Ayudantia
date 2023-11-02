@@ -1,0 +1,52 @@
+Id,NombreCompleto,NumeroDeTelefono,Pais,Sexo,Plan,Edad,Antiguedad
+1,Sofia Martinez,+525510364891,México,Femenino,S,22,4
+2,Liam Johnson,+447502461235,Reino Unido,Masculino,A,25,6
+3,Isabella Garcia,+61418997658,Australia,Femenino,B,20,3
+4,Noah Smith,+12139452099,Estados Unidos,Masculino,S,21,5
+5,Emma Santos,+5511998745612,Brasil,Femenino,A,23,7
+6,Oliver Dubois,+33619287459,Francia,Masculino,B,24,4
+7,Ava Yamada,+81345678912,Japón,Femenino,S,20,6
+8,William Khumalo,+27831234567,Sudáfrica,Masculino,A,22,5
+9,Sophia Kumar,+918745612398,India,Femenino,B,19,3
+10,Ethan Turner,+61298745632,Australia,Masculino,S,24,6
+11,Miguel Perez,+56912345678,Chile,Masculino,S,26,5
+12,Josefa Gonzalez,+56987654321,Chile,Femenino,A,27,4
+13,Benjamín Rojas,+56933333333,Chile,Masculino,B,30,7
+14,Constanza Soto,+56944444444,Chile,Femenino,S,29,5
+15,Matías Hernandez,+56955555555,Chile,Masculino,A,28,6
+16,Martina Lopez,+56966666666,Chile,Femenino,B,25,3
+17,Lucas Marin,+56977777777,Chile,Masculino,S,21,5
+18,Valentina Perez,+5491122334455,Argentina,Femenino,A,22,1
+19,Joaquín Rodriguez,+59899776655,Uruguay,Masculino,B,23,6
+20,Fernanda Alvarez,+50377771122,El Salvador,Femenino,S,24,5
+21,Diego Gutierrez,+50288992211,Guatemala,Masculino,A,20,3
+22,Camila Moreno,+50766615544,Panamá,Femenino,B,26,6
+23,Alejandro Mendoza,+59171223344,Bolivia,Masculino,S,27,7
+24,Paula Rojas,+50312345678,El Salvador,Femenino,A,28,5
+25,Sebastián Ortiz,+50688776655,Costa Rica,Masculino,B,29,4
+26,Renata Jimenez,+50298761234,Guatemala,Femenino,S,30,6
+27,Emilio Fuentes,+59811223344,Uruguay,Masculino,A,25,3
+28,Antonella Silva,+59399887766,Ecuador,Femenino,B,22,5
+29,Francisco Pereira,+595991122334,Paraguay,Masculino,S,24,7
+30,María Torres,+50733334455,Panamá,Femenino,A,27,4
+31,Ignacio Castro,+50211223344,Guatemala,Masculino,B,26,6
+32,Valeria Lopez,+524591234567,México,Femenino,S,23,5
+33,Gabriel Rojas,+562912345678,Chile,Masculino,B,28,6
+34,Catalina Silva,+56955554444,Chile,Femenino,A,26,4
+35,Mateo Fernandez,+522289876543,México,Masculino,S,24,7
+36,Florencia Morales,+56977778888,Chile,Femenino,A,29,0
+37,Luciano Perez,+5989911223344,Uruguay,Masculino,B,27,6
+38,Victoria Gomez,+573001234567,Colombia,Femenino,S,25,3
+39,Alejandra Ramirez,+522298765432,México,Femenino,A,22,5
+40,Martín Sánchez,+56912349999,Chile,Masculino,B,30,8
+41,Isabella Gonzalez,+521555443322,México,Femenino,S,21,0
+42,Sebastián Torres,+56987659999,Chile,Masculino,A,27,6
+43,Valentina Flores,+56944448888,Chile,Femenino,B,24,5
+44,Nicolás Rodriguez,+573001122334,Colombia,Masculino,S,22,3
+45,Emilia Martínez,+5212344556677,México,Femenino,A,26,7
+46,Benjamín Herrera,+56966668888,Chile,Masculino,B,23,4
+47,Renata Castro,+50298765432,Guatemala,Femenino,S,29,1
+48,Maximiliano Vargas,+522289988776,México,Masculino,A,20,5
+49,Sofía Aguilar,+50765554433,Panamá,Femenino,B,28,7
+50,Emiliano Medina,+523333222111,México,Masculino,S,30,8
+51,María Fernández,+56955556666,Chile,Femenino,A,25,4
