@@ -6,4 +6,7 @@ Este formulario está diseñado para evaluar el interés y registrar la particip
 - Ejercicios sobre lectura/escritura de archivos con la libreria IO
 ## Link del formulario
 Recordar que deben participar minimo 5 alumnos para la realización de la ayudantia.
-- El formulario estará disponible pronto
+- Adjunto link del formulario para asistir a la ayudantia del día 10 de noviembre https://forms.office.com/r/DQeR8JRb5g
+## Link de encuesta de satisfacción de las sesiones realizadas
+Es importante que respondan esta encuesta para dar a conocer sus opiniones acerca de la ayudantia de programación impartida por Rodrigo Palacios
+- Adjunto link de encuestas de ayudantías: https://forms.office.com/r/0Sq1xmagZp
